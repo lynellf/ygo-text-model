@@ -1,0 +1,17 @@
+{
+  "name": "ygo-text-model",
+  "version": "1.0.0",
+  "description": "Provide model for ML consumption",
+  "main": "model.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynellf/ygo-text-model.git"
+  },
+  "keywords": [],
+  "author": "Ezell Frazier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynellf/ygo-text-model/issues"
+  },
+  "homepage": "https://github.com/lynellf/ygo-text-model#readme"
+}
